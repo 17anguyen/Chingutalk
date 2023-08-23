@@ -1,5 +1,7 @@
-# chingu talk
-an aplication for finding people near you with similar interest
+# ChinguTalk
+
+## 📝 Description
+Ths application is a social media web application model where users can enter a database based on similar interest. The user's interests and image (through Cloundinary) can be updated on the profile page with a in app chat feature utilizing Socket.io.
 
 ## Table of Contents
 
@@ -12,20 +14,6 @@ an aplication for finding people near you with similar interest
 - [Links](#🔗-links-to-docs)
 
 ---------------
-
-## 📝 Description
-
-chingu talk is a social media app used to find other users based on their interest to help you connect with more people like you
-
-### 👤 User Story
-
-AS someone who is looking to go out and do something fun
-I WANT a list of other users that are into the same things as me
-SO THAT i dont have to be alone when i want to go out and do my favorite things
-
----------------
- 
-
 ## 🛠️ Technologies Used
 
 <ul>
@@ -43,9 +31,6 @@ SO THAT i dont have to be alone when i want to go out and do my favorite things
 ---------------
 
 ## 💻 Usage
-
-**Video Walkthrough:**  add link
-
 <em>MySQL has to be installed on computer for this application to run.</em>
 
 ***Steps for Usage***  
@@ -69,13 +54,6 @@ SO THAT i dont have to be alone when i want to go out and do my favorite things
 ![screenshot placeholder](/public/Assets/homepageplaceholder.png)
 
 ---------------
-
-## 📃 License
-
-Please refer to the LICENSE in the repo.
-
----------------
-
 ## 🔗 Links to Docs
 
 **dotenv:** https://www.npmjs.com/package/dotenv  
